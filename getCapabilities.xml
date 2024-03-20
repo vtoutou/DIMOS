@@ -137,7 +137,7 @@
 				<Title>erga_dimos</Title>
 				<Abstract>GH:erga_dimos ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/vtoutou/DIMOS/releases/download/Map_Download/erga_dimos.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="26.49854830487719" miny="41.35163717824347" maxx="26.500962856124698" maxy="41.35302579343641"></LatLonBoundingBox>
